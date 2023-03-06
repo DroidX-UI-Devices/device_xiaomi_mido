@@ -166,3 +166,6 @@ bluetooth.hardware.power.operating_voltage_mv=3300
 
 # Zygote
 zygote.critical_window.minute=10
+
+# DroidX
+ro.droidx.maintainer=SahilxNalinish
